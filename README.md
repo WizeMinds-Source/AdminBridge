@@ -1,6 +1,10 @@
-# AdminBridge
+# AdminBridge: administrator PowerShell and CMD for local AI assistants
 
 **Company: WizeMinds · Author: NGL/GPT · Version: 0.1.0-preview**
+
+Looking for a way to run **PowerShell as administrator from ChatGPT or a local AI assistant**?
+Read [How to run administrator PowerShell commands from a local AI assistant](docs/AI-ASSISTANT-POWERSHELL-ADMIN.md).
+AdminBridge requires a permitted local Windows command connection; a browser-only chat cannot use it directly.
 
 Start with the [step-by-step installation and use guide](docs/STEP-BY-STEP.md).
 
